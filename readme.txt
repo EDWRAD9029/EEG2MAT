@@ -1,4 +1,4 @@
-EEG2MAT version2.0 作成者:野村拓未(ma20077),櫻井直也（ag18045）
+EEG2MAT version2.0
 更新日時 2022/02/24
 ※EEG2MATの改良型です
 
